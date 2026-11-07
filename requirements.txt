@@ -1,0 +1,2 @@
+winrt-runtime
+winrt-Windows.Media.Control

@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+lyrics_cache/
+discord_token.txt
+.env
+.vscode/
+.idea/
+*.log
