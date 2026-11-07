@@ -81,6 +81,11 @@ Key settings can be modified near the top of `status_discord.py`:
 - Lyrics are fetched from LRCLIB and cached in a local `lyrics_cache/` folder (git-ignored).
 - Spotify desktop app is required; the script reads playback information through Windows Media Control.
 
+
+## Acknowledgements
+   - Developed with the help of Claude (Anthropic) and Antigravity (Google).
+   
+
 ## Disclaimer
 
 Not affiliated with Spotify or Discord. Use at your own risk.
